@@ -1,6 +1,10 @@
    Links
 <br>
-<a href="mailto: conwayshawn33@gamil.com">![Gmail-Light](https://github.com/shawnway210/shawnway210/assets/138731667/11cb9e23-4490-41e2-9fb3-fc69e7d02384)<br><a href="https://www.linkedin.com/in/shawn-conway-offthestem/">![LinkedIn](https://github.com/shawnway210/shawnway210/assets/138731667/8749f448-b50c-4ca3-b423-d70fd815729d)<br><a href="https://discord.com/channels/@shawnway210">![Discord](https://github.com/shawnway210/shawnway210/assets/138731667/e559470b-32ec-42b7-824e-d417d7e6a896)    
+<a href="mailto: conwayshawn33@gamil.com">![Gmail-Light](https://github.com/shawnway210/shawnway210/assets/138731667/11cb9e23-4490-41e2-9fb3-fc69e7d02384)
+<br>
+<a href="https://www.linkedin.com/in/shawn-conway-offthestem/">![LinkedIn](https://github.com/shawnway210/shawnway210/assets/138731667/8749f448-b50c-4ca3-b423-d70fd815729d)
+<br>
+<a href="https://discord.com/channels/@shawnway210">![Discord](https://github.com/shawnway210/shawnway210/assets/138731667/e559470b-32ec-42b7-824e-d417d7e6a896)    
 
 
 
@@ -10,7 +14,6 @@
   Skills
 
 ![SQLite-1](https://github.com/shawnway210/shawnway210/assets/138731667/b3ef07a6-547c-4655-b700-c1c7f7cdf373)
-
 ![Git](https://github.com/shawnway210/shawnway210/assets/138731667/ff4da509-59c6-42eb-9106-6b3481498e50)
 
 ![VSCode-Dark-1](https://github.com/shawnway210/shawnway210/assets/138731667/875e6595-d743-4019-8f53-b43e204832f8)
