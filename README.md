@@ -1,13 +1,22 @@
-                                   Links
+                         Links
 <a href="mailto: conwayshawn33@gamil.com">![Gmail-Light](https://github.com/shawnway210/shawnway210/assets/138731667/11cb9e23-4490-41e2-9fb3-fc69e7d02384)  
 
-<a href="https://www.linkedin.com/in/shawn-conway-offthestem/">![LinkedIn](https://github.com/shawnway210/shawnway210/assets/138731667/19406dbf-8d2b-4d69-89e3-465ac539155c)
-<a href="https://discord.com/channels/@shawnway210">![Discord-1](https://github.com/shawnway210/shawnway210/assets/138731667/1c3816e1-5515-45cd-8f30-538b4397f16c) 
-                                    
+<a href="https://www.linkedin.com/in/shawn-conway-offthestem/">![LinkedIn](https://github.com/shawnway210/shawnway210/assets/138731667/8749f448-b50c-4ca3-b423-d70fd815729d) 
+
+<a href="https://discord.com/channels/@shawnway210">![Discord](https://github.com/shawnway210/shawnway210/assets/138731667/e559470b-32ec-42b7-824e-d417d7e6a896)    
+
                                     
                                     Skills
 
-![SQLite](https://github.com/shawnway210/shawnway210/assets/138731667/7c17e27e-b6cb-4276-a69f-3f9bbc2f9e92)![Git](https://github.com/shawnway210/shawnway210/assets/138731667/6f458efb-a597-4c72-8366-2f31f37bbb2e)![VSCode-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/cd94fdab-26f3-49a4-8d07-52a4c23252f9)![React-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/d15256a3-261a-4dd9-b17b-95d3e9ade834)![Flask-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/9f9fd549-32ff-458a-b0ed-45df292dcf80)![JavaScript](https://github.com/shawnway210/shawnway210/assets/138731667/a0c5e6d1-239b-489d-a6ca-371347b0fb72)![HTML](https://github.com/shawnway210/shawnway210/assets/138731667/81838666-7477-413a-a7ec-056cb4f1a3e1)![Python-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/6da178fc-4edc-4f05-ac50-59cf7bf2957d)                                  
+![SQLite-1](https://github.com/shawnway210/shawnway210/assets/138731667/b3ef07a6-547c-4655-b700-c1c7f7cdf373)![Git](https://github.com/shawnway210/shawnway210/assets/138731667/ff4da509-59c6-42eb-9106-6b3481498e50)![VSCode-Dark-1](https://github.com/shawnway210/shawnway210/assets/138731667/875e6595-d743-4019-8f53-b43e204832f8)![React-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/f04d3c81-7b91-47f5-8d05-d6ef0ae51a50)![Flask-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/eac13fb3-efa9-4db4-b8f3-114225b5c798)![JavaScript](https://github.com/shawnway210/shawnway210/assets/138731667/8ba019ee-4190-4fa8-8e9e-a0f84c2a8145)![HTML](https://github.com/shawnway210/shawnway210/assets/138731667/a8ebaf5f-73bd-4e4e-9b0a-558b060dd9aa)![Python-Dark](https://github.com/shawnway210/shawnway210/assets/138731667/15b8dd7c-c404-4a5e-893c-a93f39f4069a)![CSS](https://github.com/shawnway210/shawnway210/assets/138731667/02a9b90a-4ff1-402a-9001-df0273f5adf9) 
+
+
+
+
+
+
+
+                                 
 
 
 
