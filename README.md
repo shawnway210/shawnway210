@@ -1,8 +1,6 @@
                          Links
 <a href="mailto: conwayshawn33@gamil.com">![Gmail-Light](https://github.com/shawnway210/shawnway210/assets/138731667/11cb9e23-4490-41e2-9fb3-fc69e7d02384)  
-
 <a href="https://www.linkedin.com/in/shawn-conway-offthestem/">![LinkedIn](https://github.com/shawnway210/shawnway210/assets/138731667/8749f448-b50c-4ca3-b423-d70fd815729d) 
-
 <a href="https://discord.com/channels/@shawnway210">![Discord](https://github.com/shawnway210/shawnway210/assets/138731667/e559470b-32ec-42b7-824e-d417d7e6a896)    
 
                                     
