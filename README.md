@@ -13,7 +13,8 @@
                                     
   Skills
 
-![SQLite-1](https://github.com/shawnway210/shawnway210/assets/138731667/b3ef07a6-547c-4655-b700-c1c7f7cdf373) |
+![SQLite-1](https://github.com/shawnway210/shawnway210/assets/138731667/b3ef07a6-547c-4655-b700-c1c7f7cdf373)
+
 ![Git](https://github.com/shawnway210/shawnway210/assets/138731667/ff4da509-59c6-42eb-9106-6b3481498e50)
 
 ![VSCode-Dark-1](https://github.com/shawnway210/shawnway210/assets/138731667/875e6595-d743-4019-8f53-b43e204832f8)
